@@ -3,7 +3,7 @@
 
 ## Background
 
-[MightySignal Revenue Dashboard](https://lmadigan.github.io/airbnb-yelp-chrome/) is a simple app to allow the finance team to
+[MightySignal Revenue Dashboard](https://peaceful-tundra-46601.herokuapp.com/#/) is a simple app to allow the finance team to
 
 ## Architecture and Technologies
 
@@ -18,7 +18,7 @@ MightySignal Revenue Dashboard was implemented with the following technologies:
 ## Features and Implementation
 ![](/app/assets/images/mighty.png)
 
-This app allows the finance team to track revenue of the current month and compare it to previous months. 
+This app allows the finance team to track revenue of the current month and compare it to previous months.
 
 ## Future Features
 
