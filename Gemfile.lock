@@ -121,9 +121,8 @@ GEM
     rb-fsevent (0.9.8)
     rb-inotify (0.9.8)
       ffi (>= 0.5.0)
-    react-rails (1.10.0)
+    react-rails (1.11.0)
       babel-transpiler (>= 0.7.0)
-      coffee-script-source (~> 1.8)
       connection_pool
       execjs
       railties (>= 3.2)
