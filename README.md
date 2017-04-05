@@ -14,6 +14,12 @@ MightySignal Revenue Dashboard was implemented with the following technologies:
  - `React.js`  frontend framework.
  - `Rechart` for charts/graphs
 
+## Features and Implementation
+
+ 1. Download zip files
+ 2. Ensure postgresql is running on computer
+ 3. Run `bundle install` in directory of application
+ 4. Run `rails s` and check out the application on the local host
 
 ## Features and Implementation
 ![](/app/assets/images/mighty.png)
